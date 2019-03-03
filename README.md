@@ -2,7 +2,7 @@
 <p>Christoph Meyer<br />
 Hatzfelder Weg 4a<br />81476 München</p>
 <h2>Kontakt</h2>
-E-Mail: <a href="#" onclick="mailhidepopup=window.open('https://mailhide.io/e/ElqxD?compact=true','mailhidepopup',width=580,height=635); return false;">Email address</a><br />
+E-Mail: <a target="_blank" href="https://mailhide.io/e/ElqxD">https://mailhide.io/e/ElqxD</a><br />
 </p>
 <br /><br /><h2>Disclaimer – rechtliche Hinweise</h2>
 § 1 Warnhinweis zu Inhalten<br />
