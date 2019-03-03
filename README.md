@@ -2,7 +2,7 @@
 <p>Christoph Meyer<br />
 Hatzfelder Weg 4a<br />81476 München</p>
 <h2>Kontakt</h2>
-E-Mail: <a href="mailto:github@it-integrator.de">github@it-integrator.de</a><br />
+E-Mail: github@it-integrator.de<br />
 </p>
 <br /><br /><h2>Disclaimer – rechtliche Hinweise</h2>
 § 1 Warnhinweis zu Inhalten<br />
